@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { projectAuth } from '../../components/firebase/config';
 import { useLogin } from '../../hooks/useLogin';
 import styles from './Login.module.css';
 
